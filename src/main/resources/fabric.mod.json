@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "tutorialmod",
+	"version": "${version}",
+	"name": "Tutorial Mod",
+	"description": "My first Minecraft Mod",
+	"authors": [
+		"LubCore"
+	],
+	"contact": {
+		"homepage": "No home page :(",
+		"sources": "https://github.com/LubCore12/Minecraft-first-Mod"
+	},
+	"license": "MIT",
+	"icon": "assets/tutorialmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.lubcore.tutorialmod.TutorialMod"
+		],
+		"fabric-datagen": [
+			"net.lubcore.tutorialmod.TutorialModDataGenerator"
+		],
+		"client": [
+			"net.lubcore.tutorialmod.TutorialModClient"
+		]
+	},
+	"mixins": [
+		"tutorialmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
