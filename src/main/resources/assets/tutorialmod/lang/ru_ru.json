@@ -3,5 +3,8 @@
   "item.tutorialmod.raw_pink_garnet": "Необработанный Розовый Гранат",
 
   "block.tutorialmod.pink_garnet_block": "Блок Розового Граната",
-  "block.tutorialmod.raw_pink_garnet_block": "Блок Необработанного Розового Граната"
+  "block.tutorialmod.raw_pink_garnet_block": "Блок Необработанного Розового Граната",
+
+  "itemgroup.tutorialmod.pink_garnet_items": "Предметы из Розового Граната",
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Блоки из Розового Граната"
 }
