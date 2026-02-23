@@ -15,5 +15,10 @@
   "block.tutorialmod.magic_block": "Магический Блок",
 
   "itemgroup.tutorialmod.pink_garnet_items": "Предметы из Розового Граната",
-  "itemgroup.tutorialmod.pink_garnet_blocks": "Блоки из Розового Граната"
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Блоки из Розового Граната",
+
+  "tooltip.tutorialmod.magic_block": "§kM§rЭтот блок очень-очень §9МАГИЧЕСКИЙ§r§kM§r",
+  "tooltip.tutorialmod.chisel.shift_down": "Этот предмет превращает блоки в Кирпичи!",
+  "tooltip.tutorialmod.chisel.shift_up": "Нажми §eShift§r для большей Информации!",
+  "tooltip.tutorialmod.cauliflower": "Это деликатес!"
 }
