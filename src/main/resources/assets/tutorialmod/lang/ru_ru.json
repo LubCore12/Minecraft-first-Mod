@@ -9,6 +9,8 @@
   "block.tutorialmod.pink_garnet_ore": "Руда Розового Граната",
   "block.tutorialmod.pink_garnet_deepslate_ore": "Руда Глубинного Розового Граната",
 
+  "block.tutorialmod.magic_block": "Магический Блок",
+
   "itemgroup.tutorialmod.pink_garnet_items": "Предметы из Розового Граната",
   "itemgroup.tutorialmod.pink_garnet_blocks": "Блоки из Розового Граната"
 }
