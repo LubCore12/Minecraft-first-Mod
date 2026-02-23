@@ -1,8 +1,8 @@
 package net.lubcore.tutorialmod.item;
 
-import jdk.jfr.Frequency;
 import net.lubcore.tutorialmod.TutorialMod;
 import net.lubcore.tutorialmod.item.custom.ChiselItem;
+import net.minecraft.component.type.FoodComponents;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -17,6 +17,12 @@ public class ModItems {
 
     public static final Item CHISEL = registerItem("chisel",
             new ChiselItem(new Item.Settings().maxDamage(32)));
+
+    public static final Item CAULIFLOWER = registerItem("cauliflower",
+            new Item(new Item.Settings().food(ModFoodComponents.CAULIFLOWER)));
+
+    public static final Item STARLIGHT_ASHES = registerItem("starlight_ashes",
+            new Item(new Item.Settings()));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(TutorialMod.MOD_ID, name), item);
