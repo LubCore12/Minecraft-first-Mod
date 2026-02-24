@@ -2,6 +2,7 @@ package net.lubcore.tutorialmod.block;
 
 import net.lubcore.tutorialmod.TutorialMod;
 import net.lubcore.tutorialmod.block.custom.MagicBlock;
+import net.lubcore.tutorialmod.block.custom.PinkGarnetLampBlock;
 import net.minecraft.block.*;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -58,6 +59,10 @@ public class ModBlocks {
 
     public static final Block PINK_GARNET_TRAPDOOR = registerBlock("pink_garnet_trapdoor",
             new TrapdoorBlock(BlockSetType.IRON, AbstractBlock.Settings.create().strength(3f).requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK).nonOpaque()));
+
+    public static final Block PINK_GARNET_LAMP = registerBlock("pink_garnet_lamp",
+            new PinkGarnetLampBlock(AbstractBlock.Settings.create()
+                    .strength(1.5f).requiresTool().luminance(state -> state.get(PinkGarnetLampBlock.CLICKED) ? 15 : 0)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
