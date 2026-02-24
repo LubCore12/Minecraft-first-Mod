@@ -14,6 +14,19 @@
 
   "block.tutorialmod.magic_block": "Магический Блок",
 
+  "block.tutorialmod.pink_garnet_stairs": "Ступени из Розового Граната",
+  "block.tutorialmod.pink_garnet_slab": "Плита из Розового Граната",
+
+  "block.tutorialmod.pink_garnet_wall": "Стена из Розового Граната",
+  "block.tutorialmod.pink_garnet_button": "Кнопка из Розового Граната",
+
+  "block.tutorialmod.pink_garnet_pressure_plate": "Нажимная плита из Розового Граната",
+  "block.tutorialmod.pink_garnet_fence": "Забор из Розового Граната",
+  "block.tutorialmod.pink_garnet_fence_gate": "Калитка из Розового Граната",
+
+  "block.tutorialmod.pink_garnet_door": "Дверь из Розового Граната",
+  "block.tutorialmod.pink_garnet_trapdoor": "Люк из Розового Граната",
+
   "itemgroup.tutorialmod.pink_garnet_items": "Предметы из Розового Граната",
   "itemgroup.tutorialmod.pink_garnet_blocks": "Блоки из Розового Граната",
 
