@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.lubcore.tutorialmod.block.ModBlocks;
+import net.lubcore.tutorialmod.component.ModDataComponentTypes;
 import net.lubcore.tutorialmod.item.ModItemGroups;
 import net.lubcore.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
@@ -18,6 +19,7 @@ public class TutorialMod implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModDataComponentTypes.registerDataComponentTypes();
 
 		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 800);
 	}
