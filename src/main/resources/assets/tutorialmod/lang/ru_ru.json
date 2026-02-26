@@ -7,6 +7,12 @@
   "item.tutorialmod.cauliflower": "Цветная Капуста",
   "item.tutorialmod.starlight_ashes": "Звездный Пепел",
 
+  "item.tutorialmod.pink_garnet_sword": "Меч из Розового Граната",
+  "item.tutorialmod.pink_garnet_pickaxe": "Кирка из Розового Граната",
+  "item.tutorialmod.pink_garnet_axe": "Топор из Розового Граната",
+  "item.tutorialmod.pink_garnet_shovel": "Лопата из Розового Граната",
+  "item.tutorialmod.pink_garnet_hoe": "Мотыга из Розового Граната",
+
   "block.tutorialmod.pink_garnet_block": "Блок Розового Граната",
   "block.tutorialmod.raw_pink_garnet_block": "Блок Необработанного Розового Граната",
   "block.tutorialmod.pink_garnet_ore": "Руда Розового Граната",
