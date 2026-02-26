@@ -1,4 +1,4 @@
-// 1.21	2026-02-26T18:25:39.136828766	Tutorial Mod/Model Definitions
+// 1.21	2026-02-26T19:15:18.794982024	Tutorial Mod/Model Definitions
 de7cef03dda3a791b1e729beb70408dd1bdfc9a8 assets/tutorialmod/models/block/pink_garnet_fence_side.json
 f6782b74c6765a7069b470aa024e7842d988830e assets/tutorialmod/models/block/pink_garnet_door_top_left_open.json
 71d14427350d8972a3b7c9d3b7f2f9ebb012d386 assets/tutorialmod/models/block/pink_garnet_button.json
@@ -43,6 +43,7 @@ db3c7fd404543728f8b989bee0ca68018dac6e79 assets/tutorialmod/models/item/magic_bl
 c9cc7ab7c299fce033da47ee15dfa7a259a4e0fb assets/tutorialmod/models/block/pink_garnet_fence_post.json
 9dafa8c7abfad7661aecc276099e2c6594d99cc4 assets/tutorialmod/models/block/pink_garnet_door_bottom_left_open.json
 52a4083d3c35c256af17a02cba3afe2d5960094d assets/tutorialmod/models/item/pink_garnet_door.json
+00d484aeafa1b6b8a7a6dcc575cfd572b517bd23 assets/tutorialmod/models/item/pink_garnet_hammer.json
 45c1f72b68dbd01526cbfbe3e2924b10a6c08515 assets/tutorialmod/models/block/pink_garnet_trapdoor_bottom.json
 24f724c2198ff8944770b708972a4fb85bb82e77 assets/tutorialmod/models/block/pink_garnet_trapdoor_open.json
 b8a328f7a3c0600e44839a46d05666c47291ffb9 assets/tutorialmod/models/block/raw_pink_garnet_block.json
