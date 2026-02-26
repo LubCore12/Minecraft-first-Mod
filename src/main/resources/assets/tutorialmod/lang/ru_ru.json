@@ -15,6 +15,11 @@
 
   "item.tutorialmod.pink_garnet_hammer": "Молот из Розового Граната",
 
+  "item.tutorialmod.pink_garnet_helmet": "Шлем из Розового Граната",
+  "item.tutorialmod.pink_garnet_chestplate": "Нагрудник из Розового Граната",
+  "item.tutorialmod.pink_garnet_leggings": "Поножи из Розового Граната",
+  "item.tutorialmod.pink_garnet_boots": "Ботинки из Розового Граната",
+
   "block.tutorialmod.pink_garnet_block": "Блок Розового Граната",
   "block.tutorialmod.raw_pink_garnet_block": "Блок Необработанного Розового Граната",
   "block.tutorialmod.pink_garnet_ore": "Руда Розового Граната",
