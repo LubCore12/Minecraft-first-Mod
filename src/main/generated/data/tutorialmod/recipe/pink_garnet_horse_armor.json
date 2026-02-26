@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "P": {
+      "item": "tutorialmod:pink_garnet"
+    }
+  },
+  "pattern": [
+    "  P",
+    "PLP",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:pink_garnet_horse_armor"
+  }
+}
